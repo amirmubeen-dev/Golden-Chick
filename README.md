@@ -1,4 +1,4 @@
-# This is Food Ordering Website 
+# Food Ordering Website 
 
 Follow these steps:
 
@@ -16,7 +16,7 @@ npm i
 npm run dev
 ```
 
-This project is built with:
+# Tech Stack
 
 - Vite
 - TypeScript
